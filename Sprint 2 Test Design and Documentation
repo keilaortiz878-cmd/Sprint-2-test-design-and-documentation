@@ -1,0 +1,29 @@
+What I Learned
+QA Professional Foundation
+- Understanding the role of QA engineers as quality gatekeepers in development teams
+- Essential hard skills (testing methodologies, tools) and soft skills (communication, analytical thinking)
+- How QA fits into the Software Development Life Cycle (SDLC)
+
+Testing Methodologies Mastered
+- Manual vs Automated Testing: When to use each approach
+- Functional vs Non-functional Testing: Testing what the software does vs how it performs
+- Testing Levels: From smoke testing to exhaustive testing strategies
+- Exploratory Testing: Tour testing methods and session-based testing
+
+Professional Tools & Documentation
+- Jira: Industry-standard bug tracking and project management
+- Professional Bug Reporting: Structured documentation with clear titles, reproduction steps, expected vs actual results
+- Quality Standards: Creating actionable reports with proper priority and severity assessment
+
+Hands-On Project: Urban Routes Testing
+Objective: Systematically test a real navigation/transportation application
+
+Deliverables:
+- Identified and documented 8-10 bugs using professional standards
+- Created comprehensive bug reports in Jira
+- Applied multiple testing methodologies to ensure thorough coverage
+
+### Key Takeaway
+This sprint transformed my approach from random exploratory testing to systematic, professional QA methodology. I learned to think like a QA engineer - not just finding bugs, but understanding the development process and communicating findings effectively to development teams.
+
+Skills Developed: Professional bug documentation, systematic testing approaches, industry tool proficiency, quality assurance mindset

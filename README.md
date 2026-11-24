@@ -1,4 +1,4 @@
-Sprint 2: QA Testing Fundamentals
+ QA Testing Fundamentals
 
 ## 📋 Project Overview
 This repository documents my learning journey through QA Testing Fundamentals, where I gained comprehensive knowledge of Quality Assurance principles and practices. The sprint followed an engaging narrative featuring Ali, a QA expert investigating technical issues in the fictional town of Codetopia.
